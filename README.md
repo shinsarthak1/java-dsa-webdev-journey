@@ -24,9 +24,9 @@ It includes:
 | Arrays | 🔄 Learning |
 | Strings | ⬜ Upcoming |
 | Hashing | ⬜ Upcoming |
-| Two Pointers | ⬜ Upcoming |
+| Two Pointers | 🔄 Learning  |
 | Sliding Window | ⬜ Upcoming |
-| Linked List | ⬜ Upcoming |
+| Linked List | 🔄 Learning  |
 | Stack & Queue | ⬜ Upcoming |
 | Trees | ⬜ Upcoming |
 | Graphs | ⬜ Upcoming |
