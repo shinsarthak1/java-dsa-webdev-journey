@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        div{
+            font-family: Arial;
+        }
+        .header{
+            background-color: rgb(120,82,178);
+            color: white;
+            display: flex;
+            flex-direction: row;
+            justify-content: space-between;
+            align-items: center;
+            padding-left: 15px;
+            padding-right: 15px;
+        }
+        .home{
+            font-weight: bold;
+        }
+        .textbox{
+            width: 500px;
+            border: none;
+            margin-top: 12px;
+            margin-bottom: 12px;
+            border-radius: 16px;
+            height: 30px;
+            padding-left: 20px;
+        }
+        button{
+            background-color: rgb(120, 82, 178);
+            color: white;
+            font-size: 18px;
+            border: 1px solid white;
+            border-radius: 2px;
+            padding: 8px 16px;
+            cursor: pointer;
+        }
+        button:hover{
+            background-color: white;
+            color:rgb(120, 82, 178);
+        }
+    </style>
+</head>
+<body>
+    <div class="header">
+        <div class="home">Home</div>
+        <input class="textbox" type="text" placeholder="Search">
+        <button>Download</button>
+    </div>
+</body>
+</html>
